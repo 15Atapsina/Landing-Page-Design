@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Sharabir Mall</title>
+		<meta charset="UTF-8"/>
+		<link rel="icon" type="image/x-icon" href="img/icon.png"/>
+	</head>
+	<body>
+		<a href="#home page">Home</a>
+		<a href="#about page">About Us</a>
+		<a href="#service page">Service</a>
+		<a href="#contact page">Contact</a>
+		<!--Home page-->
+		<section id="home page">
+			<img src="img/r.jpg" alt="image" width="100%"/>
+			<h1>Sharabir Mall</h1>
+			<h2>Airpods 3rd Generation</h1>
+			<p align="justify">AirPods (3rd generation) are sweat and water resistant for non-water sports and exercise.</p>
+			<img src="img/12.jpg" alt="image"/>
+			<img src="img/images.jpg" alt="image"/>
+			<h2>Apple 20W USB-C Power Adapter</h2>
+			<p align="justify">The Apple 20W USB-C Power Adapter offers fast, efficient charging at home, in the office, or on the go. While the power adapter is compatible with any USB‑C-enabled device, Apple recommends pairing it with the iPad Pro and iPad Air for optimal charging performance. You can also pair it with iPhone 8 or later to take advantage of the fast-charging feature.</p>
+			<img src="img/1.jpg" alt="image"/>
+		</section>
+		<!--About page-->
+		<section id="about page">
+			<h1>About Us:</h1>
+			<p align="justify"><b>Sharabir Mall</b> was established to achieve two goals-allow SMEs to grow their business online, while creating an immersive and personalized shopping experience for customers.We realize that we have a unique opportunity to make a positive impact across South Asia, and we want to achieve this at every touch point.</p>
+		</section>
+		<!--Service page-->
+		<section id="service page">
+			<h1>Services Us:</h1>
+			<pre>
+				<strong>1.Furniture
+				2.Accessories
+				3.Clocks
+				4.Lighting
+				5.Toys</strong>
+			</pre>
+	    </section>
+		<!--contact page-->
+		<strong id="contact page">
+			<h1>contact us:</h1>
+			<address>
+				Sharabir Mall<br/>
+				Beside Rajlokki,Uttara Zone Mobile Market,Sector 3,Lift 3,Shop No:41<br/>
+				Uttara,Dhaka -1230<br/>
+				Phone:01685096402<br/>
+				Email:sharabir.official@gmail.com<br/>
+				Facebook:https://www.facebook.com/sharabir.official
+			</address>
+		</strong>
+	</body>
+</html>
